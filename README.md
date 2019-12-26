@@ -1,4 +1,4 @@
-# Speech-to-text-Translation-Model-Pytorch
+# Speech-to-text-Translation-Pytorch
 Machine translation Model with attention model and Pyramidal BiLSTM to reduce computational complexity
 
 
